@@ -1,0 +1,250 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 4139696000,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 84094000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "RetailPageTestStepDefinitions.user_click_on_Desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 3839631500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Show all desktops",
+            "match": {
+              "location": "RetailPageTestStepDefinitions.user_click_on_show_all_desktops()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2442834900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "User verify all items are present in Desktops tab",
+        "description": "",
+        "id": "desktop-retail-website-feature;user-verify-all-items-are-present-in-desktops-tab",
+        "after": [
+          {
+            "result": {
+              "duration": 687499600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1060165800,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "User should see all items are present in Desktop page",
+            "match": {
+              "location": "DesktopTestStepDefinitions.all_items_are_present_in_Desktop_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 11,
+            "name": "@ItemsPresentDesktop"
+          }
+        ]
+      },
+      {
+        "line": 5,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 2677601300,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "LoginTestStepDefinition.user_is_on_Retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 59311900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "User click on Desktops tab",
+            "match": {
+              "location": "RetailPageTestStepDefinitions.user_click_on_Desktops_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 979286900,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "User click on Show all desktops",
+            "match": {
+              "location": "RetailPageTestStepDefinitions.user_click_on_show_all_desktops()"
+            },
+            "keyword": "And "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1537634000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.beforeHooks(Scenario)"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "User add HP LP3065  from Desktops tab to the cart",
+        "description": "",
+        "id": "desktop-retail-website-feature;user-add-hp-lp3065--from-desktops-tab-to-the-cart",
+        "after": [
+          {
+            "result": {
+              "duration": 788104200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Initializer.afterHooks(Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 54290100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User click ADD TO CARToption on HP LP3065 item",
+            "match": {
+              "location": "DesktopTestStepDefinitions.user_click_ADD_TO_CARToption_on_HP_LP_item()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4774333400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User select quantity \u00271\u0027",
+            "match": {
+              "arguments": [
+                {
+                  "val": "1",
+                  "offset": 22
+                }
+              ],
+              "location": "DesktopTestStepDefinitions.user_select_quantity(String)"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 386226800,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User click add to Cart button",
+            "match": {
+              "location": "DesktopTestStepDefinitions.user_click_add_to_Cart_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 346178000,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User should see a message Success: You have added HP LP3065 to your shopping cart!",
+            "match": {
+              "location": "DesktopTestStepDefinitions.user_should_see_a_message_Success_you_have_added_HP_LP_to_your_Shopping_cart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 16,
+            "name": "@addHPLP3065FromDesktopTabToCart"
+          }
+        ]
+      }
+    ],
+    "name": "Desktop Retail Website Feature",
+    "description": "",
+    "id": "desktop-retail-website-feature",
+    "keyword": "Feature",
+    "uri": "Features/DesktopFeature.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Desktop"
+      }
+    ]
+  }
+]

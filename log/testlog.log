@@ -1,0 +1,650 @@
+2021-02-04 21:32:50,597 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:32:55,885 - logger_File -INFO - Retail page is opened
+2021-02-04 21:32:55,895 - logger_File -INFO - Page title  is verified
+2021-02-04 21:32:56,849 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:33:43,181 - logger_File -INFO - Search functionality Test case   failed
+2021-02-04 21:44:59,850 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:45:04,112 - logger_File -INFO - Retail page is opened
+2021-02-04 21:45:04,123 - logger_File -INFO - Page title  is verified
+2021-02-04 21:45:04,866 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:45:51,246 - logger_File -INFO - Search functionality Test case   failed
+2021-02-04 21:48:03,163 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:48:09,693 - logger_File -INFO - Retail page is opened
+2021-02-04 21:48:09,714 - logger_File -INFO - Page title  is verified
+2021-02-04 21:48:10,281 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:48:34,647 - logger_File -INFO - User clicked on searched button
+2021-02-04 21:48:35,863 - logger_File -INFO - Search functionality Test case   passed
+2021-02-04 21:49:13,601 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 21:49:18,923 - logger_File -INFO - Retail page is opened
+2021-02-04 21:49:18,936 - logger_File -INFO - Page title  is verified
+2021-02-04 21:49:19,458 - logger_File -INFO - User entered value in search bar
+2021-02-04 21:50:05,824 - logger_File -INFO - Search functionality Test case   failed
+2021-02-04 22:04:59,551 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 22:05:04,401 - logger_File -INFO - Retail page is opened
+2021-02-04 22:05:04,412 - logger_File -INFO - Page title  is verified
+2021-02-04 22:05:05,032 - logger_File -INFO - User entered value in search bar
+2021-02-04 22:05:06,001 - logger_File -INFO - User clicked on searched button
+2021-02-04 22:05:07,281 - logger_File -INFO - Search functionality Test case   passed
+2021-02-04 22:10:10,037 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-04 22:10:14,209 - logger_File -INFO - Retail page is opened
+2021-02-04 22:10:14,223 - logger_File -INFO - Page title  is verified
+2021-02-04 22:10:14,770 - logger_File -INFO - User entered value in search bar
+2021-02-04 22:10:15,741 - logger_File -INFO - User clicked on searched button
+2021-02-04 22:10:16,867 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 19:04:27,544 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 19:04:42,313 - logger_File -INFO - Retail page is opened
+2021-02-08 19:04:42,374 - logger_File -INFO - Page title  is verified
+2021-02-08 19:05:27,231 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:05:36,355 - logger_File -INFO - User clicked on searched button
+2021-02-08 19:05:50,889 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 19:05:50,897 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 19:06:00,523 - logger_File -INFO - Retail page is opened
+2021-02-08 19:06:00,533 - logger_File -INFO - Page title  is verified
+2021-02-08 19:06:43,233 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:06:54,525 - logger_File -INFO - User clicked on searched button
+2021-02-08 19:06:55,314 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 19:06:55,321 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 19:07:01,485 - logger_File -INFO - Retail page is opened
+2021-02-08 19:07:01,492 - logger_File -INFO - Page title  is verified
+2021-02-08 19:07:51,432 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:08:00,585 - logger_File -INFO - User clicked on searched button
+2021-02-08 19:08:01,416 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 19:08:01,430 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 19:08:08,013 - logger_File -INFO - Retail page is opened
+2021-02-08 19:08:08,023 - logger_File -INFO - Page title  is verified
+2021-02-08 19:08:53,724 - logger_File -INFO - User entered value in search bar
+2021-02-08 19:09:03,823 - logger_File -INFO - User clicked on searched button
+2021-02-08 19:09:04,592 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 20:34:29,720 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 20:34:37,347 - logger_File -INFO - Retail page is opened
+2021-02-08 20:34:37,357 - logger_File -INFO - Page title  is verified
+2021-02-08 21:17:42,021 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:17:49,513 - logger_File -INFO - Retail page is opened
+2021-02-08 21:17:49,525 - logger_File -INFO - Page title  is verified
+2021-02-08 21:19:24,316 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 21:24:52,350 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:24:59,031 - logger_File -INFO - Retail page is opened
+2021-02-08 21:24:59,042 - logger_File -INFO - Page title  is verified
+2021-02-08 21:26:37,833 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 21:42:44,022 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:42:51,615 - logger_File -INFO - Retail page is opened
+2021-02-08 21:42:51,626 - logger_File -INFO - Page title  is verified
+2021-02-08 21:43:41,403 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 21:44:43,900 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 21:44:50,745 - logger_File -INFO - Retail page is opened
+2021-02-08 21:44:50,757 - logger_File -INFO - Page title  is verified
+2021-02-08 21:45:40,084 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:45:49,317 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:46:00,871 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 21:46:00,878 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:46:10,390 - logger_File -INFO - Retail page is opened
+2021-02-08 21:46:10,401 - logger_File -INFO - Page title  is verified
+2021-02-08 21:46:53,450 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:47:05,853 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:47:06,792 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:47:06,796 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:47:13,187 - logger_File -INFO - Retail page is opened
+2021-02-08 21:47:13,198 - logger_File -INFO - Page title  is verified
+2021-02-08 21:48:02,056 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:48:11,251 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:48:11,961 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:48:11,972 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:48:21,240 - logger_File -INFO - Retail page is opened
+2021-02-08 21:48:21,248 - logger_File -INFO - Page title  is verified
+2021-02-08 21:49:07,103 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:49:16,246 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:49:16,982 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:49:16,988 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:49:26,342 - logger_File -INFO - Retail page is opened
+2021-02-08 21:49:26,353 - logger_File -INFO - Page title  is verified
+2021-02-08 21:50:27,288 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-08 21:50:34,386 - logger_File -INFO - Retail page is opened
+2021-02-08 21:50:34,398 - logger_File -INFO - Page title  is verified
+2021-02-08 21:51:27,459 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:51:37,706 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:51:45,436 - logger_File -INFO - Search functionality Test case   passed
+2021-02-08 21:51:45,442 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:51:52,021 - logger_File -INFO - Retail page is opened
+2021-02-08 21:51:52,029 - logger_File -INFO - Page title  is verified
+2021-02-08 21:52:44,668 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:52:54,867 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:52:55,742 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:52:55,747 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:53:05,371 - logger_File -INFO - Retail page is opened
+2021-02-08 21:53:05,381 - logger_File -INFO - Page title  is verified
+2021-02-08 21:53:55,173 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:54:04,389 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:54:05,219 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:54:05,229 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-08 21:54:14,711 - logger_File -INFO - Retail page is opened
+2021-02-08 21:54:14,726 - logger_File -INFO - Page title  is verified
+2021-02-08 21:55:01,448 - logger_File -INFO - User entered value in search bar
+2021-02-08 21:55:10,760 - logger_File -INFO - User clicked on searched button
+2021-02-08 21:55:11,494 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-08 21:55:11,498 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 21:55:17,943 - logger_File -INFO - Retail page is opened
+2021-02-08 21:55:17,950 - logger_File -INFO - Page title  is verified
+2021-02-08 21:56:07,564 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 22:18:01,698 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 22:18:08,852 - logger_File -INFO - Retail page is opened
+2021-02-08 22:18:08,861 - logger_File -INFO - Page title  is verified
+2021-02-08 22:19:02,638 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 22:20:33,750 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 22:20:40,407 - logger_File -INFO - Retail page is opened
+2021-02-08 22:20:40,417 - logger_File -INFO - Page title  is verified
+2021-02-08 22:21:29,859 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 22:30:53,530 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 22:31:00,227 - logger_File -INFO - Retail page is opened
+2021-02-08 22:31:00,236 - logger_File -INFO - Page title  is verified
+2021-02-08 22:31:49,820 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 22:40:27,614 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 22:40:34,205 - logger_File -INFO - Retail page is opened
+2021-02-08 22:40:34,217 - logger_File -INFO - Page title  is verified
+2021-02-08 22:41:22,749 - logger_File -INFO - Register an Account test case   failed
+2021-02-08 23:17:32,882 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 23:17:39,894 - logger_File -INFO - Retail page is opened
+2021-02-08 23:17:39,903 - logger_File -INFO - Page title  is verified
+2021-02-08 23:18:25,056 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 23:19:54,761 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 23:20:04,668 - logger_File -INFO - Retail page is opened
+2021-02-08 23:20:04,678 - logger_File -INFO - Page title  is verified
+2021-02-08 23:20:54,993 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 23:24:36,467 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 23:24:43,417 - logger_File -INFO - Retail page is opened
+2021-02-08 23:24:43,427 - logger_File -INFO - Page title  is verified
+2021-02-08 23:25:31,931 - logger_File -INFO - Register an Account test case   undefined
+2021-02-08 23:42:24,639 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-08 23:42:31,721 - logger_File -INFO - Retail page is opened
+2021-02-08 23:42:31,733 - logger_File -INFO - Page title  is verified
+2021-02-08 23:43:22,255 - logger_File -INFO - User clicked on Register Option
+2021-02-08 23:43:22,641 - logger_File -INFO - User  filled the information form
+2021-02-08 23:43:34,271 - logger_File -INFO - User checked privacy policy
+2021-02-08 23:43:39,084 - logger_File -INFO - User clicked on continue button
+2021-02-08 23:44:25,251 - logger_File -INFO - Register an Account test case   failed
+2021-02-09 19:59:04,762 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-09 19:59:10,959 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-09 19:59:11,929 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-14 20:22:47,358 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-14 20:22:57,533 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-14 20:22:59,499 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-14 20:38:04,220 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-14 20:38:06,841 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-14 20:38:07,613 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-14 21:13:31,309 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-14 21:13:34,182 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-14 21:13:34,944 - logger_File -INFO - Execute all information from Actor Table   failed
+2021-02-14 21:21:55,905 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-14 21:21:58,788 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-14 21:21:59,086 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-14 21:21:59,187 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-14 21:21:59,187 - logger_File -INFO - DataBase connection has been closed
+2021-02-14 21:21:59,899 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-14 21:22:53,462 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-14 21:22:56,175 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-14 21:22:56,191 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-14 21:22:56,218 - logger_File -INFO - ResultSet is stored in a csv file in outcome folder
+2021-02-14 21:22:56,219 - logger_File -INFO - DataBase connection has been closed
+2021-02-14 21:22:56,960 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-14 21:37:38,524 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-14 21:37:42,738 - logger_File -INFO - Retail page is opened
+2021-02-14 21:37:42,779 - logger_File -INFO - Page title  is verified
+2021-02-14 21:37:43,384 - logger_File -INFO - User entered value in search bar
+2021-02-14 21:37:44,252 - logger_File -INFO - User clicked on searched button
+2021-02-14 21:37:45,374 - logger_File -INFO - Search functionality Test case   passed
+2021-02-14 21:39:52,362 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-14 21:39:56,722 - logger_File -INFO - Retail page is opened
+2021-02-14 21:39:56,737 - logger_File -INFO - Page title  is verified
+2021-02-14 21:39:57,987 - logger_File -INFO - User clicked on Register Option
+2021-02-14 21:39:58,430 - logger_File -INFO - User  filled the information form
+2021-02-14 21:39:58,878 - logger_File -INFO - User checked privacy policy
+2021-02-14 21:40:02,576 - logger_File -INFO - User clicked on continue button
+2021-02-14 21:40:03,279 - logger_File -INFO - Account was created Successfully
+2021-02-14 21:40:04,002 - logger_File -INFO - Register an Account test case   passed
+2021-02-15 16:10:36,906 - logger_File -INFO - Scenario Search functionality Test case Started 
+2021-02-15 16:10:45,071 - logger_File -INFO - Retail page is opened
+2021-02-15 16:10:45,297 - logger_File -INFO - Page title  is verified
+2021-02-15 16:10:46,060 - logger_File -INFO - User entered value in search bar
+2021-02-15 16:10:49,559 - logger_File -INFO - User clicked on searched button
+2021-02-15 16:10:50,945 - logger_File -INFO - Search functionality Test case   passed
+2021-02-15 16:10:50,956 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-15 16:10:54,807 - logger_File -INFO - Retail page is opened
+2021-02-15 16:10:54,822 - logger_File -INFO - Page title  is verified
+2021-02-15 16:10:55,372 - logger_File -INFO - User entered value in search bar
+2021-02-15 16:10:56,242 - logger_File -INFO - User clicked on searched button
+2021-02-15 16:10:56,982 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-15 16:10:56,996 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-15 16:11:00,570 - logger_File -INFO - Retail page is opened
+2021-02-15 16:11:00,579 - logger_File -INFO - Page title  is verified
+2021-02-15 16:11:01,061 - logger_File -INFO - User entered value in search bar
+2021-02-15 16:11:01,950 - logger_File -INFO - User clicked on searched button
+2021-02-15 16:11:02,738 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-15 16:11:02,743 - logger_File -INFO - Scenario : Test search functionality with multipple sets of Data Started 
+2021-02-15 16:11:08,259 - logger_File -INFO - Retail page is opened
+2021-02-15 16:11:08,266 - logger_File -INFO - Page title  is verified
+2021-02-15 16:11:08,786 - logger_File -INFO - User entered value in search bar
+2021-02-15 16:11:12,292 - logger_File -INFO - User clicked on searched button
+2021-02-15 16:11:13,113 - logger_File -INFO - : Test search functionality with multipple sets of Data   passed
+2021-02-15 16:11:13,117 - logger_File -INFO - Scenario Register an Account test case Started 
+2021-02-15 16:11:18,569 - logger_File -INFO - Retail page is opened
+2021-02-15 16:11:18,577 - logger_File -INFO - Page title  is verified
+2021-02-15 16:11:19,685 - logger_File -INFO - User clicked on Register Option
+2021-02-15 16:11:20,150 - logger_File -INFO - User  filled the information form
+2021-02-15 16:11:20,604 - logger_File -INFO - User checked privacy policy
+2021-02-15 16:11:22,553 - logger_File -INFO - User clicked on continue button
+2021-02-15 16:12:08,884 - logger_File -INFO - Register an Account test case   failed
+2021-02-15 16:12:27,335 - logger_File -INFO - Scenario Execute all information from Actor Table Started 
+2021-02-15 16:12:30,755 - logger_File -INFO - Connection is established between JDBC and DB
+2021-02-15 16:12:31,017 - logger_File -INFO - select * from public.actor: has been executed
+2021-02-15 16:12:31,067 - logger_File -INFO - ResultSet is stored in a csv file in output folder
+2021-02-15 16:12:31,068 - logger_File -INFO - DataBase connection has been closed
+2021-02-15 16:12:31,728 - logger_File -INFO - Execute all information from Actor Table   passed
+2021-02-15 16:13:36,898 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 16:13:43,105 - logger_File -INFO - Retail page is opened
+2021-02-15 16:13:43,118 - logger_File -INFO - Page title  is verified
+2021-02-15 16:13:44,255 - logger_File -INFO - User verify all items are present in Desktops tab   undefined
+2021-02-15 18:44:46,531 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 18:44:51,064 - logger_File -INFO - Retail page is opened
+2021-02-15 18:44:51,073 - logger_File -INFO - Page title  is verified
+2021-02-15 18:44:52,270 - logger_File -INFO - User verify all items are present in Desktops tab   undefined
+2021-02-15 20:04:07,332 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 20:04:11,772 - logger_File -INFO - Retail page is opened
+2021-02-15 20:04:11,799 - logger_File -INFO - Page title  is verified
+2021-02-15 20:04:12,417 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 20:04:13,324 - logger_File -INFO - User verify all items are present in Desktops tab   failed
+2021-02-15 20:10:49,531 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 20:10:53,551 - logger_File -INFO - Retail page is opened
+2021-02-15 20:10:53,563 - logger_File -INFO - Page title  is verified
+2021-02-15 20:10:54,244 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 20:10:54,879 - logger_File -INFO - User clicked on show all desctops option
+2021-02-15 20:10:57,026 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-15 20:56:23,920 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 20:56:28,459 - logger_File -INFO - Retail page is opened
+2021-02-15 20:56:28,469 - logger_File -INFO - Page title  is verified
+2021-02-15 20:56:29,017 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 20:56:29,607 - logger_File -INFO - User clicked on show all desctops option
+2021-02-15 20:56:30,030 - logger_File -INFO - appleCinema30 is checked
+2021-02-15 20:56:30,457 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-15 20:56:30,484 - logger_File -INFO - HPLP3065 is checked
+2021-02-15 20:56:30,511 - logger_File -INFO - HTCTouchHD is checked
+2021-02-15 20:56:30,534 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-15 20:56:30,561 - logger_File -INFO - iPodClassic is checked
+2021-02-15 20:56:30,586 - logger_File -INFO - MacBookAir is checked
+2021-02-15 20:56:30,613 - logger_File -INFO - PalmTreoPro is checked
+2021-02-15 20:56:30,639 - logger_File -INFO - Product8 is checked
+2021-02-15 20:56:30,668 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-15 20:56:30,694 - logger_File -INFO - SonyVAIO is checked
+2021-02-15 20:56:31,399 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-15 21:10:46,955 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 21:10:51,053 - logger_File -INFO - Retail page is opened
+2021-02-15 21:10:51,064 - logger_File -INFO - Page title  is verified
+2021-02-15 21:10:51,596 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 21:10:52,164 - logger_File -INFO - User clicked on show all desctops option
+2021-02-15 21:10:52,587 - logger_File -INFO - appleCinema30 is checked
+2021-02-15 21:10:52,983 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-15 21:10:53,011 - logger_File -INFO - HPLP3065 is checked
+2021-02-15 21:10:53,040 - logger_File -INFO - HTCTouchHD is checked
+2021-02-15 21:10:53,063 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-15 21:10:53,090 - logger_File -INFO - iPodClassic is checked
+2021-02-15 21:10:53,118 - logger_File -INFO - MacBookAir is checked
+2021-02-15 21:10:53,143 - logger_File -INFO - PalmTreoPro is checked
+2021-02-15 21:10:53,169 - logger_File -INFO - Product8 is checked
+2021-02-15 21:10:53,198 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-15 21:10:53,223 - logger_File -INFO - SonyVAIO is checked
+2021-02-15 21:10:54,324 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-15 21:18:26,748 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-15 21:18:30,821 - logger_File -INFO - Retail page is opened
+2021-02-15 21:18:30,831 - logger_File -INFO - Page title  is verified
+2021-02-15 21:18:31,342 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 21:18:31,905 - logger_File -INFO - User clicked on show all desctops option
+2021-02-15 21:18:32,337 - logger_File -INFO - appleCinema30 is checked
+2021-02-15 21:18:32,755 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-15 21:18:32,782 - logger_File -INFO - HPLP3065 is checked
+2021-02-15 21:18:32,810 - logger_File -INFO - HTCTouchHD is checked
+2021-02-15 21:18:32,833 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-15 21:18:32,858 - logger_File -INFO - iPodClassic is checked
+2021-02-15 21:18:32,883 - logger_File -INFO - MacBookAir is checked
+2021-02-15 21:18:32,908 - logger_File -INFO - PalmTreoPro is checked
+2021-02-15 21:18:32,934 - logger_File -INFO - Product8 is checked
+2021-02-15 21:18:32,958 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-15 21:18:32,984 - logger_File -INFO - SonyVAIO is checked
+2021-02-15 21:18:34,111 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-15 21:18:34,129 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-15 21:18:37,576 - logger_File -INFO - Retail page is opened
+2021-02-15 21:18:37,583 - logger_File -INFO - Page title  is verified
+2021-02-15 21:18:38,096 - logger_File -INFO - User clicked on desktops tab
+2021-02-15 21:18:38,666 - logger_File -INFO - User clicked on show all desctops option
+2021-02-15 21:18:39,711 - logger_File -INFO - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-02-16 02:26:54,654 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:26:59,454 - logger_File -INFO - Retail page is opened
+2021-02-16 02:26:59,496 - logger_File -INFO - Page title  is verified
+2021-02-16 02:27:00,194 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:27:00,773 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:27:01,257 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:27:01,649 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:27:01,678 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:27:01,705 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:27:01,728 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:27:01,755 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:27:01,784 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:27:01,813 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:27:01,840 - logger_File -INFO - Product8 is checked
+2021-02-16 02:27:01,867 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:27:01,894 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:27:03,142 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:27:03,147 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 02:27:06,887 - logger_File -INFO - Retail page is opened
+2021-02-16 02:27:06,895 - logger_File -INFO - Page title  is verified
+2021-02-16 02:27:07,448 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:27:08,556 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:27:09,709 - logger_File -INFO - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-16 02:37:34,756 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:37:39,100 - logger_File -INFO - Retail page is opened
+2021-02-16 02:37:39,109 - logger_File -INFO - Page title  is verified
+2021-02-16 02:37:39,689 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:37:40,318 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:37:40,761 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:37:41,168 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:37:41,195 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:37:41,220 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:37:41,242 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:37:41,267 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:37:41,291 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:37:41,318 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:37:41,343 - logger_File -INFO - Product8 is checked
+2021-02-16 02:37:41,368 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:37:41,393 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:37:42,485 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:37:42,492 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 02:37:47,945 - logger_File -INFO - Retail page is opened
+2021-02-16 02:37:47,959 - logger_File -INFO - Page title  is verified
+2021-02-16 02:37:48,534 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:37:52,227 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:37:53,383 - logger_File -INFO - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-16 02:44:58,103 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:45:04,385 - logger_File -INFO - Retail page is opened
+2021-02-16 02:45:04,395 - logger_File -INFO - Page title  is verified
+2021-02-16 02:45:04,954 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:45:08,577 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:45:08,999 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:45:09,421 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:45:09,449 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:45:09,476 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:45:09,499 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:45:09,525 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:45:09,553 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:45:09,579 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:45:09,606 - logger_File -INFO - Product8 is checked
+2021-02-16 02:45:09,634 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:45:09,661 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:45:10,772 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:45:10,777 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 02:45:14,217 - logger_File -INFO - Retail page is opened
+2021-02-16 02:45:14,227 - logger_File -INFO - Page title  is verified
+2021-02-16 02:45:14,742 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:45:15,488 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:45:16,600 - logger_File -INFO - User add HP LP 3065  from Desktops tab to the cart   failed
+2021-02-16 02:48:45,719 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:48:49,741 - logger_File -INFO - Retail page is opened
+2021-02-16 02:48:49,751 - logger_File -INFO - Page title  is verified
+2021-02-16 02:48:50,295 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:48:50,870 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:48:51,306 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:48:51,690 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:48:51,719 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:48:51,748 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:48:51,772 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:48:51,799 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:48:51,826 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:48:51,852 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:48:51,880 - logger_File -INFO - Product8 is checked
+2021-02-16 02:48:51,905 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:48:51,931 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:48:53,020 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:48:53,030 - logger_File -INFO - Scenario User add HP LP 3065  from Desktops tab to the cart Started 
+2021-02-16 02:48:58,389 - logger_File -INFO - Retail page is opened
+2021-02-16 02:48:58,397 - logger_File -INFO - Page title  is verified
+2021-02-16 02:48:58,923 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:49:02,444 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:49:03,528 - logger_File -INFO - User add HP LP 3065  from Desktops tab to the cart   undefined
+2021-02-16 02:53:22,813 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:53:27,183 - logger_File -INFO - Retail page is opened
+2021-02-16 02:53:27,192 - logger_File -INFO - Page title  is verified
+2021-02-16 02:53:27,703 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:53:28,449 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:53:28,893 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:53:29,295 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:53:29,333 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:53:29,369 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:53:29,400 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:53:29,461 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:53:29,490 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:53:29,517 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:53:29,543 - logger_File -INFO - Product8 is checked
+2021-02-16 02:53:29,569 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:53:29,595 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:53:30,797 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:53:30,802 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 02:53:34,189 - logger_File -INFO - Retail page is opened
+2021-02-16 02:53:34,199 - logger_File -INFO - Page title  is verified
+2021-02-16 02:53:34,667 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:53:35,250 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:53:36,341 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 02:56:23,198 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:56:27,629 - logger_File -INFO - Retail page is opened
+2021-02-16 02:56:27,645 - logger_File -INFO - Page title  is verified
+2021-02-16 02:56:28,145 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:56:29,157 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:56:29,624 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:56:30,026 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:56:30,053 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:56:30,079 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:56:30,101 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:56:30,127 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:56:30,154 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:56:30,180 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:56:30,209 - logger_File -INFO - Product8 is checked
+2021-02-16 02:56:30,234 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:56:30,260 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:56:31,328 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:56:31,337 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 02:56:36,828 - logger_File -INFO - Retail page is opened
+2021-02-16 02:56:36,839 - logger_File -INFO - Page title  is verified
+2021-02-16 02:56:37,314 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:56:41,093 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:56:41,519 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 02:56:44,612 - logger_File -INFO - User selected quantity: 1
+2021-02-16 02:56:45,101 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 02:56:46,412 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   undefined
+2021-02-16 02:58:24,812 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:58:29,541 - logger_File -INFO - Retail page is opened
+2021-02-16 02:58:29,552 - logger_File -INFO - Page title  is verified
+2021-02-16 02:58:30,053 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:58:31,040 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:58:31,458 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:58:31,878 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:58:31,907 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:58:31,936 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:58:31,960 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:58:31,987 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:58:32,014 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:58:32,040 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:58:32,065 - logger_File -INFO - Product8 is checked
+2021-02-16 02:58:32,090 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:58:32,115 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:58:33,193 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:58:33,204 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 02:58:36,930 - logger_File -INFO - Retail page is opened
+2021-02-16 02:58:36,939 - logger_File -INFO - Page title  is verified
+2021-02-16 02:58:37,421 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:58:38,143 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:58:38,568 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 02:58:43,407 - logger_File -INFO - User selected quantity: 1
+2021-02-16 02:58:43,854 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 02:58:44,579 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 02:58:45,411 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 02:59:42,221 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 02:59:48,270 - logger_File -INFO - Retail page is opened
+2021-02-16 02:59:48,281 - logger_File -INFO - Page title  is verified
+2021-02-16 02:59:48,764 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 02:59:52,456 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 02:59:52,875 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 02:59:53,273 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 02:59:53,302 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 02:59:53,331 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 02:59:53,356 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 02:59:53,385 - logger_File -INFO - iPodClassic is checked
+2021-02-16 02:59:53,411 - logger_File -INFO - MacBookAir is checked
+2021-02-16 02:59:53,439 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 02:59:53,464 - logger_File -INFO - Product8 is checked
+2021-02-16 02:59:53,490 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 02:59:53,515 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 02:59:54,609 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 02:59:54,617 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:00:00,792 - logger_File -INFO - Retail page is opened
+2021-02-16 03:00:00,804 - logger_File -INFO - Page title  is verified
+2021-02-16 03:00:01,264 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:00:11,571 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:00:11,984 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:00:16,481 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:00:16,925 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:00:19,062 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:00:23,888 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 03:07:19,613 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 03:07:23,952 - logger_File -INFO - Retail page is opened
+2021-02-16 03:07:23,965 - logger_File -INFO - Page title  is verified
+2021-02-16 03:07:24,506 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:07:25,082 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:07:25,508 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 03:07:25,926 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 03:07:25,954 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 03:07:25,982 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 03:07:26,005 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 03:07:26,033 - logger_File -INFO - iPodClassic is checked
+2021-02-16 03:07:26,059 - logger_File -INFO - MacBookAir is checked
+2021-02-16 03:07:26,086 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 03:07:26,112 - logger_File -INFO - Product8 is checked
+2021-02-16 03:07:26,139 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 03:07:26,168 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 03:07:28,857 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 03:07:28,864 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:07:32,989 - logger_File -INFO - Retail page is opened
+2021-02-16 03:07:33,002 - logger_File -INFO - Page title  is verified
+2021-02-16 03:07:33,453 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:07:34,092 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:07:34,546 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:07:39,059 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:07:39,469 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:07:40,176 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:07:44,945 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 03:10:25,642 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 03:10:30,199 - logger_File -INFO - Retail page is opened
+2021-02-16 03:10:30,209 - logger_File -INFO - Page title  is verified
+2021-02-16 03:10:30,769 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:10:31,631 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:10:32,055 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 03:10:32,449 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 03:10:32,476 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 03:10:32,503 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 03:10:32,525 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 03:10:32,553 - logger_File -INFO - iPodClassic is checked
+2021-02-16 03:10:32,580 - logger_File -INFO - MacBookAir is checked
+2021-02-16 03:10:32,607 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 03:10:32,633 - logger_File -INFO - Product8 is checked
+2021-02-16 03:10:32,657 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 03:10:32,683 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 03:10:33,747 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 03:10:33,753 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:10:37,412 - logger_File -INFO - Retail page is opened
+2021-02-16 03:10:37,422 - logger_File -INFO - Page title  is verified
+2021-02-16 03:10:37,891 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:10:38,583 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:10:39,029 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:10:43,629 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:10:44,034 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:10:44,727 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:10:49,481 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 03:13:51,444 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 03:13:58,307 - logger_File -INFO - Retail page is opened
+2021-02-16 03:13:58,317 - logger_File -INFO - Page title  is verified
+2021-02-16 03:13:58,790 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:14:01,980 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:14:02,408 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 03:14:02,798 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 03:14:02,825 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 03:14:02,853 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 03:14:02,876 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 03:14:02,902 - logger_File -INFO - iPodClassic is checked
+2021-02-16 03:14:02,930 - logger_File -INFO - MacBookAir is checked
+2021-02-16 03:14:02,956 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 03:14:02,983 - logger_File -INFO - Product8 is checked
+2021-02-16 03:14:03,010 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 03:14:03,035 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 03:14:04,132 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 03:14:04,140 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:14:07,505 - logger_File -INFO - Retail page is opened
+2021-02-16 03:14:07,516 - logger_File -INFO - Page title  is verified
+2021-02-16 03:14:08,029 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:14:08,719 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:14:09,148 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:14:13,768 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:14:14,204 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:14:14,934 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:14:14,956 - logger_File -INFO - Success message is:Success: You have added HP LP3065 to your shopping cart!
+×
+2021-02-16 03:14:19,687 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 03:22:09,838 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 03:22:14,092 - logger_File -INFO - Retail page is opened
+2021-02-16 03:22:14,102 - logger_File -INFO - Page title  is verified
+2021-02-16 03:22:14,615 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:22:15,232 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:22:15,644 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 03:22:16,038 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 03:22:16,066 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 03:22:16,093 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 03:22:16,116 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 03:22:16,144 - logger_File -INFO - iPodClassic is checked
+2021-02-16 03:22:16,170 - logger_File -INFO - MacBookAir is checked
+2021-02-16 03:22:16,196 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 03:22:16,223 - logger_File -INFO - Product8 is checked
+2021-02-16 03:22:16,252 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 03:22:16,278 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 03:22:17,344 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 03:22:17,354 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:22:21,006 - logger_File -INFO - Retail page is opened
+2021-02-16 03:22:21,017 - logger_File -INFO - Page title  is verified
+2021-02-16 03:22:21,541 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:22:22,185 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:22:22,621 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:22:27,308 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:22:27,733 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:22:28,458 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:22:28,479 - logger_File -INFO - Success message is:Success: You have added HP LP3065 to your shopping cart!
+×
+2021-02-16 03:22:29,293 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   failed
+2021-02-16 03:23:54,286 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started 
+2021-02-16 03:24:00,311 - logger_File -INFO - Retail page is opened
+2021-02-16 03:24:00,322 - logger_File -INFO - Page title  is verified
+2021-02-16 03:24:00,818 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:24:04,283 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:24:04,707 - logger_File -INFO - appleCinema30 is checked
+2021-02-16 03:24:05,122 - logger_File -INFO - CanonEOS5DT is checked
+2021-02-16 03:24:05,152 - logger_File -INFO - HPLP3065 is checked
+2021-02-16 03:24:05,181 - logger_File -INFO - HTCTouchHD is checked
+2021-02-16 03:24:05,204 - logger_File -INFO - iPhoneTextLink is checked
+2021-02-16 03:24:05,234 - logger_File -INFO - iPodClassic is checked
+2021-02-16 03:24:05,262 - logger_File -INFO - MacBookAir is checked
+2021-02-16 03:24:05,291 - logger_File -INFO - PalmTreoPro is checked
+2021-02-16 03:24:05,319 - logger_File -INFO - Product8 is checked
+2021-02-16 03:24:05,347 - logger_File -INFO - samsungSyncMaster941Bw is checked
+2021-02-16 03:24:05,372 - logger_File -INFO - SonyVAIO is checked
+2021-02-16 03:24:06,408 - logger_File -INFO - User verify all items are present in Desktops tab   passed
+2021-02-16 03:24:06,416 - logger_File -INFO - Scenario User add HP LP3065  from Desktops tab to the cart Started 
+2021-02-16 03:24:10,198 - logger_File -INFO - Retail page is opened
+2021-02-16 03:24:10,218 - logger_File -INFO - Page title  is verified
+2021-02-16 03:24:10,689 - logger_File -INFO - User clicked on desktops tab
+2021-02-16 03:24:11,312 - logger_File -INFO - User clicked on show all desctops option
+2021-02-16 03:24:11,730 - logger_File -INFO - User clicked on Add to cart option on HP LP3065
+2021-02-16 03:24:16,121 - logger_File -INFO - User selected quantity: 1
+2021-02-16 03:24:16,550 - logger_File -INFO - User clicked on Add To Cart on HP LP3065 page
+2021-02-16 03:24:17,241 - logger_File -INFO - Success message for HP LP3065 added to cart is displayed
+2021-02-16 03:24:18,029 - logger_File -INFO - User add HP LP3065  from Desktops tab to the cart   passed
